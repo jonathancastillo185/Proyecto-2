@@ -3,7 +3,7 @@
 
 <div style="background-color: #333; color: #fff; padding: 20px; border-radius: 10px;">
   <p align="center">
-    <img src="image/presentacion.jpg" style="border-radius: 40%; width: 600px; height: auto;">
+    <img src="image/presentacion.jpg" style="border-radius: 50%; width: 600px; height: auto;">
   </p>
 </div>
 
