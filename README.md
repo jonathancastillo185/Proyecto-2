@@ -97,7 +97,7 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 
 ![Alt text](/image/image13.png)
 
-Decidimos seleccionar solo las muestras mas representativas, para invadir el desarrollo con graficos no relevantes.
+Decidimos seleccionar solo las muestras mas representativas, para no invadir el desarrollo con graficos irelevantes.
 
 <h3>Como podemos observar en el estudio de los diagramas, la mayoría de las provincias pertenecientes al grupo de volumen medio en la categoría de promedio de accesos por cada 100 hogares experimentaron un aumento exponencial en los años 2017/2018, indicando una clara tendencia en este aspecto. Sin embargo, este punto será abordado más detalladamente en breve, durante el análisis de las tecnologías y la velocidad. Aunque muchos de estos aumentos pueden atribuirse a inversiones conjuntas con el gobierno a través de proyectos destinados a mejorar la conectividad en todo el país, al final del documento se adjuntarán bibliografías que refutan esta afirmación.</h3>
 
@@ -126,4 +126,5 @@ Decidimos seleccionar solo las muestras mas representativas, para invadir el des
 
 <h2>2) Aumentar la disminucion porcentual del uso de la tecnologia ADSL, con posibles acciones tales como:</h3>
 
+<h3>a. Reemplazar tirajes de lineas con la tecnologia Fibra optica, la supera con creces en velocidad, costo y estabilidad.</h3>
 
