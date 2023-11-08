@@ -101,7 +101,7 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 
 ![Alt text](/image/image13.png)
 
-Decidimos seleccionar solo las muestras mas representativas, para no invadir el desarrollo con graficos irelevantes.
+Solo se visualizan las muestras mas representativas con el fin de no contaminar el desarrollo con graficos poco referentes.
 
 <h3>Como podemos observar en el estudio de los diagramas, la mayoría de las provincias pertenecientes al grupo de volumen medio en la categoría de promedio de accesos por cada 100 hogares experimentaron un aumento exponencial en los años 2017/2018, indicando una clara tendencia en este aspecto. Sin embargo, este punto será abordado más detalladamente en breve, durante el análisis de las tecnologías y la velocidad. Aunque muchos de estos aumentos pueden atribuirse a inversiones conjuntas con el gobierno a través de proyectos destinados a mejorar la conectividad en todo el país, al final del documento se adjuntarán bibliografías que refutan esta afirmación.</h3>
 
@@ -119,6 +119,8 @@ Decidimos seleccionar solo las muestras mas representativas, para no invadir el 
 
 ![Alt text](/image/image11.png)
 
+Solo se visualizan las muestras mas representativas con el fin de no contaminar el desarrollo con graficos poco referentes.
+
 <h3>Estos graficos analizando el incremento del porcentaje de accesos por tecnologia, nos dan un panorama de hacia a donde van encaminadas las inversiones a futuro en relacion a la conectividad en las diferentes provincias, cada una tiene su nucleo fuerte en tecnologia, en lo unico que podemos afirmar que coinciden es en retrotraer el tipo de coneccion ADSL, ya que es el mas antiguo y esta quedando obsoleto por su falta de estabilidad, asi como tambien por su poca velocidad de transferencia de datos.</h3>
 <h3>Dato de color no menor: la tecnologia ADSL es la mas economica.</h3>
 
@@ -134,8 +136,24 @@ Decidimos seleccionar solo las muestras mas representativas, para no invadir el 
 
 ---
 
+<h2>A continuacion vamos a realizar la visualizacion en rango temporal, de las velocidades que forman parte de la infraestructuras de las Provincias pertenecientes al volumen medio de acceso a internet por cada 100 hogares.</h2>
 
-### Para realizar este estudio del mercado se utiliaron los siguientes Datasets extraidos de la web oficial de [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/):
+![Alt text](/image/image14.png)
+
+![Alt text](/image/image15.png)
+
+![Alt text](/image/image16.png)
+
+
+<h3>A modo de comparativa se visualizaron los graficos referentes a las mismas provincias mencionadas anteriormente en el grafico de tecnologias, para comprobar la correlacion que vinculan estos parametros, podemos llegar a la conclusion de que a medida que las tecnologias son mas eficientes a nivel transferencia y estabilidad, afecta directamente en como decanta el publico ubicado en cada Provincia.</h3>
+
+![Alt text](/image/image17.png)
+
+<h3>Un ejemplo muy significativo es el caso de la Provincia de San Luis, presenta una coorrelacion en el incremento del rango de velocidad de internet  </h3>
+
+
+
+### Para realizar este estudio de mercado se utiliaron los siguientes Datasets extraidos de la web oficial de [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/):
 
 - [Historico_velocidad_internet.csv](/Data/historico_velocidad_internet.csv): Este dataset contiene los valores promedio de bajada por provincia, agrupandolos en trimestres y años.
 
@@ -144,3 +162,13 @@ Decidimos seleccionar solo las muestras mas representativas, para no invadir el 
 - [Internet_Accesos-por-Velocidad.csv](/Data/Internet_Accesos-por-velocidad.csv): Este dataset contiene los valores de velocidad de bajada en Mbps agrupados por rango, provincia, trimestre y año.
 
 - [Internet_Penetracion_hogares.csv](/Data/Internet_Penetracion_hogares.csv): Este dataset contiene los valores de penetracion de acceso a internet por cada 100 hogares, agrupados por provincia, trimestre y año.
+
+estos fueron los datasets principales utilizados en el analisis, el resto (diferencia_porcentual_anio.csv | Volumen_acceso.csv) son filtros creados para poder trabajar mas eficientemente con la realizacion del dashboard en la aplicacion Power Bi.
+
+
+
+
+Bibliografia:
+- https://ushuaia24.com.ar/contenido/1816/mejora-el-servicio-tierra-del-fuego-se-une-a-la-red-de-fibra-optica
+- https://agenciasanluis.com/notas/2018/07/13/el-servicio-de-wifi-gratuito-amplia-los-beneficios-transversalmente-a-todos-los-sectores-de-la-comunidad-de-san-luis/
+- https://www.argentina.gob.ar/noticias/se-lanzo-el-programa-mi-pueblo-conectado-en-santiago-del-estero-con-entrega-de-equipamiento
