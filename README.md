@@ -2,7 +2,7 @@
 <h1 align="center">InterLink Telecomunicaciones</h1>
 
 <p align="center">
-  <img src="image/presentacion.jpg" style="border-radius: 50%; width: 600px; height: auto;">
+  <img src="image/presentacion.jpg" style="width: 600px; height: auto;">
 </p>
 
 ## Nuestro Rol:
