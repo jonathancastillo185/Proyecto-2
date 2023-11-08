@@ -1,11 +1,9 @@
 <h1 align="center"> PROYECTO INDIVIDUAL Nº2</h1>
 <h1 align="center">InterLink Telecomunicaciones</h1>
 
-<div style="background-color: #333; color: #fff; padding: 20px; border-radius: 10px;">
-  <p align="center">
-    <img src="image/presentacion.jpg" style="border-radius: 50%; width: 600px; height: auto;">
-  </p>
-</div>
+<p align="center">
+  <img src="image/presentacion.jpg" style="border-radius: 50%; width: 600px; height: auto;">
+</p>
 
 ## Nuestro Rol:
 
