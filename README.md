@@ -14,7 +14,11 @@ Nuestro objetivo se enfoca en llevar a cabo un análisis profundo de estos datos
 
 ![Alt text](/image/image2.png)
 
-<h3>Hemos realizado los correspondientes procesos de limpieza, normalización y análisis detallado de la información proporcionada. Se han llevado a cabo tareas para identificar y gestionar valores nulos, así como para verificar la presencia de registros duplicados. También se ha trabajado en la estructuración de los datos, preparándolos para su interpretación y análisis subsiguientes.</h3>
+<h3>Hemos llevado a cabo rigurosos procesos de limpieza, normalización y análisis minucioso de la información suministrada. Estas tareas incluyeron la identificación y gestión de valores nulos, así como la verificación de registros duplicados. Además, nos hemos enfocado en la reestructuración de los datos, preparándolos para su interpretación y análisis posteriores.</h3>
+
+<h3>Gestión de valores nulos, duplicados y outliers:
+
+En particular, respecto a los valores nulos, se procedió a su eliminación siempre y cuando no afectaran el resto del análisis. En todos los conjuntos de datos revisados, no se encontraron valores duplicados. En cuanto a los outliers, se llevó a cabo una búsqueda exhaustiva de explicaciones lógicas, proporcionando contexto y fundamentos para su aparición..</h3>
 
 ## Analisis Exploratorio de los Datos:
 
@@ -128,3 +132,15 @@ Decidimos seleccionar solo las muestras mas representativas, para no invadir el 
 
 <h3>a. Reemplazar tirajes de lineas con la tecnologia Fibra optica, la supera con creces en velocidad, costo y estabilidad.</h3>
 
+---
+
+
+### Para realizar este estudio del mercado se utiliaron los siguientes Datasets extraidos de la web oficial de [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/):
+
+- [Historico_velocidad_internet.csv](/Data/historico_velocidad_internet.csv): Este dataset contiene los valores promedio de bajada por provincia, agrupandolos en trimestres y años.
+
+- [Internet_Accesos-por-tecnologia.csv](/Data/Internet_Accesos-por-tecnologia.csv): Este dataset contiene los valores de acceso a cada tecnologia (ADSL, Wireless, Cablemodem, Fibra optica), agrupados por provincia, trimestre y año.
+
+- [Internet_Accesos-por-Velocidad.csv](/Data/Internet_Accesos-por-velocidad.csv): Este dataset contiene los valores de velocidad de bajada en Mbps agrupados por rango, provincia, trimestre y año.
+
+- [Internet_Penetracion_hogares.csv](/Data/Internet_Penetracion_hogares.csv): Este dataset contiene los valores de penetracion de acceso a internet por cada 100 hogares, agrupados por provincia, trimestre y año.
