@@ -75,7 +75,7 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 
 [Visita la página oficial de la noticia Santiago del Estero](https://www.argentina.gob.ar/noticias/se-lanzo-el-programa-mi-pueblo-conectado-en-santiago-del-estero-con-entrega-de-equipamiento)
 
-<H3>Otro valor fuera de lo comun es el incremento porcentual de la provincia de San Luis, pero esto de deve a un programa creado en conjunto con el gobierno nacional, su finalidad fue extender una red inalambrica que abarca la mayor parte de la provincia, claramente esto provoco que el acceso por cada 100 hogares incremente su valor de forma exponencial luego de este periodo</h3>
+<H3>Otro valor fuera de lo comun es el incremento porcentual de la provincia de San Luis, pero esto de deve a un programa creado en conjunto con el gobierno nacional, su finalidad fue extender una red de fibra óptica en más de 500 kilómetros que abarca la mayor parte de la provincia, claramente esto provoco que el acceso por cada 100 hogares incremente su valor de forma exponencial luego de este periodo</h3>
 
 [Visita la página oficial de la noticia San Luis](https://agenciasanluis.com/notas/2018/07/13/el-servicio-de-wifi-gratuito-amplia-los-beneficios-transversalmente-a-todos-los-sectores-de-la-comunidad-de-san-luis/)
 
@@ -89,4 +89,6 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 
 ![Alt text](/image/image7.png)
 
-<h3></h3>
+<h3>Agrupamos las provincias por sus categorias, y procedimos a clasificar las provincias dejando a la vista su promedio de acceso a internet por cada 100 hogares. En este contexto, optamos por seleccionar las provincias pertenecientes al grupo de volumen medio. Este grupo se destaca por su potencial de inversión y crecimiento a corto y mediano plazo, además de su alta densidad poblacional. Es importante resaltar que, a pesar de estas características favorables, estas áreas aún presentan una gran extensión territorial por cubrir en términos de conexiones a internet.</h3>
+
+![Alt text](/image/image8.png)
