@@ -1,5 +1,5 @@
-# PROYECTO INDIVIDUAL Nº2
-# **InterLink Telecomunicaciones**
+<h1><center> PROYECTO INDIVIDUAL Nº2</center></h1>
+<h1><center>InterLink Telecomunicaciones</h1></center>
 
 ## Nuestro Rol:
 
