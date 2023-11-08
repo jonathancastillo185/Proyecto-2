@@ -1,7 +1,9 @@
 <h1 align="center"> PROYECTO INDIVIDUAL Nº2</h1>
 <h1 align="center">InterLink Telecomunicaciones</h1>
 
-<img src="image/presentacion.jpg" width="600" height="auto">
+<p align="center">
+  <img src="image/presentacion.jpg" width="400" height="auto">
+</p>
 
 ## Nuestro Rol:
 
