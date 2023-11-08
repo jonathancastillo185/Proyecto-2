@@ -91,4 +91,8 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 
 <h3>Agrupamos las provincias por sus categorias, y procedimos a clasificar las provincias dejando a la vista su promedio de acceso a internet por cada 100 hogares. En este contexto, optamos por seleccionar las provincias pertenecientes al grupo de volumen medio. Este grupo se destaca por su potencial de inversión y crecimiento a corto y mediano plazo, además de su alta densidad poblacional. Es importante resaltar que, a pesar de estas características favorables, estas áreas aún presentan una gran extensión territorial por cubrir en términos de conexiones a internet.</h3>
 
+<h2>A continuacion vamos a realizar un grafico por Provincia comparando su crecimiento porcentual anual en acceso a internet por cada 100 hogares, con el promedio de acceso a internet por cada 100 hogares anual\trimestral</h2>
+
 ![Alt text](/image/image8.png)
+
+<h3>Como podemos observar en el estudio de los diagramas, la mayoría de las provincias pertenecientes al grupo de volumen medio en la categoría de promedio de accesos por cada 100 hogares experimentaron un aumento exponencial en los años 2017/2018, indicando una clara tendencia en este aspecto. Sin embargo, este punto será abordado más detalladamente en breve, durante el análisis de las tecnologías y la velocidad. Aunque muchos de estos aumentos pueden atribuirse a inversiones conjuntas con el gobierno a través de proyectos destinados a mejorar la conectividad en todo el país, al final del documento se adjuntarán bibliografías que refutan esta afirmación.</h3>
