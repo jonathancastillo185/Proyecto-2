@@ -50,13 +50,43 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 - El 20 de marzo del 2020 inicio la etapa de pandemia.</h3>
 
 
-<h2>A nivel global, he llegado a la conclusión de priorizar 2 KPIs:</h2>
+<h2>A nivel global, hemos llegado a la conclusión de priorizar 2 KPIs:</h2>
 
-<h2> Incrementar el porcentaje de adquisición en los trimestres 1 y 4, con posibles acciones tales como:</h2>
+<h2>1) Incrementar el porcentaje de adquisición en los trimestres 1 y 4, con posibles acciones tales como:</h2>
 
-<h3>1. Priorizar la publicidad en las etapas escolares al comienzo del trimestre 1.</h3>
-<h3>2. Ofrecer descuentos durante las festividades de fin de año en el trimestre 4.</h3>
+<h3>a. Priorizar la publicidad en las etapas escolares al comienzo del trimestre 1.</h3>
+<h3>b. Ofrecer descuentos durante las festividades de fin de año en el trimestre 4.</h3>
 
-<h2>Aumentar el porcentaje de adquisición de internet durante situaciones de cambios gubernamentales, con posibles acciones como:</h2>
+<h2>2) Aumentar el porcentaje de adquisición de internet durante situaciones de cambios gubernamentales, con posibles acciones como:</h2>
 
-<h3>1. Centrar la publicidad en la continuidad de las suscripciones a largo plazo (para reducir costos a largo plazo).</h3>
+<h3>a. Centrar la publicidad en la continuidad de las suscripciones a largo plazo (para reducir costos a largo plazo).</h3>
+
+---
+
+<h3>En el siquiente grafico se analizo la informacion a nivel provincial, este enfoque trata de explicar un poco mas a fondo diferencias entre el promedio de acceso a internet por cada 100 hogares, claramente tenemos provincias en las que el promedio es mucho mas alto, puede ser por falta de infraestructura o quizas por falta de poblacion, tengamos en cuenta que no todas las provincias cuentan con una densidad poblacional similar.</h3>
+
+![Alt text](/image/image4.png)
+
+<h3>Para poder tener un angulo mas exacto vamos a realizar la siguiente grafica en donde vemos el crecimiento porcentual del promedio de acceso a internet por cada 100 habitantes</h3>
+
+![Alt text](/image/image5.png)
+
+<h3>Como podemos obserbar en el año 2016 Santiago del Estero tenemos un incremento exponencial del promedio de acceso a internet por cada 100 hogares, y lo podemos atribuir a que Se lanzó el programa "Mi Pueblo Conectado" en Santiago del Estero.</h3>
+
+[Visita la página oficial de la noticia Santiago del Estero](https://www.argentina.gob.ar/noticias/se-lanzo-el-programa-mi-pueblo-conectado-en-santiago-del-estero-con-entrega-de-equipamiento)
+
+<H3>Otro valor fuera de lo comun es el incremento porcentual de la provincia de San Luis, pero esto de deve a un programa creado en conjunto con el gobierno nacional, su finalidad fue extender una red inalambrica que abarca la mayor parte de la provincia, claramente esto provoco que el acceso por cada 100 hogares incremente su valor de forma exponencial luego de este periodo</h3>
+
+[Visita la página oficial de la noticia San Luis](https://agenciasanluis.com/notas/2018/07/13/el-servicio-de-wifi-gratuito-amplia-los-beneficios-transversalmente-a-todos-los-sectores-de-la-comunidad-de-san-luis/)
+
+---
+
+<h2>Procedemos con el enfoque Provincial del promedio de accesos a internet por cada 100 hogares anual</h2>
+
+![Alt text](/image/image6.png)
+
+<h3>El principal fin de esta visualizacion es comprender el valor de cada provincia, y ademas poder crear una tabla de categorias en donde clasificamos las provincias en 3 sectores en relacion al Volumen de acceso Alto, Medio y Bajo.</h3>
+
+![Alt text](/image/image7.png)
+
+<h3></h3>
