@@ -93,7 +93,11 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 
 <h2>A continuacion vamos a realizar un grafico por Provincia comparando su crecimiento porcentual anual en acceso a internet por cada 100 hogares, con el promedio de acceso a internet por cada 100 hogares anual\trimestral</h2>
 
-![Alt text](/image/image8.png)
+![Alt text](/image/image12.png)
+
+![Alt text](/image/image13.png)
+
+Decidimos seleccionar solo las muestras mas representativas, para invadir el desarrollo con graficos no relevantes.
 
 <h3>Como podemos observar en el estudio de los diagramas, la mayoría de las provincias pertenecientes al grupo de volumen medio en la categoría de promedio de accesos por cada 100 hogares experimentaron un aumento exponencial en los años 2017/2018, indicando una clara tendencia en este aspecto. Sin embargo, este punto será abordado más detalladamente en breve, durante el análisis de las tecnologías y la velocidad. Aunque muchos de estos aumentos pueden atribuirse a inversiones conjuntas con el gobierno a través de proyectos destinados a mejorar la conectividad en todo el país, al final del documento se adjuntarán bibliografías que refutan esta afirmación.</h3>
 
@@ -110,4 +114,16 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 ![Alt text](/image/image10.png)
 
 ![Alt text](/image/image11.png)
+
+<h3>Estos graficos analizando el incremento del porcentaje de accesos por tecnologia, nos dan un panorama de hacia a donde van encaminadas las inversiones a futuro en relacion a la conectividad en las diferentes provincias, cada una tiene su nucleo fuerte en tecnologia, en lo unico que podemos afirmar que coinciden es en retrotraer el tipo de coneccion ADSL, ya que es el mas antiguo y esta quedando obsoleto por su falta de estabilidad, asi como tambien por su poca velocidad de transferencia de datos.</h3>
+<h3>Dato de color no menor: la tecnologia ADSL es la mas economica.</h3>
+
+<h2>A nivel tecnologia, hemos llegado a la conclusión de priorizar 2 KPIs:</h2>
+
+<h2>1) Aumentar el incremento porcentual de infraestructura Wireless, con posibles acciones tales como:</h2>
+
+<h3>a. Realizar inversiones en diferentes provincias en las cuales por el momento no domina ninguna otra tecnologia a grandes rasgos.</h3>
+
+<h2>2) Aumentar la disminucion porcentual del uso de la tecnologia ADSL, con posibles acciones tales como:</h3>
+
 
