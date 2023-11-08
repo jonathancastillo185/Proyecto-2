@@ -1,6 +1,8 @@
 <h1 align="center"> PROYECTO INDIVIDUAL Nº2</h1>
 <h1 align="center">InterLink Telecomunicaciones</h1>
 
+![Alt text](/image/presentacion.jpg)
+
 ## Nuestro Rol:
 
 <h3>En esta ocasión, la empresa InterLink de telecomunicaciones se ha comunicado con nuestra consultora especializada en el análisis de datos, con el fin de obtener una visión integral y detallada sobre el estado actual de las diversas tecnologías, velocidades y tendencias que imperan en el mercado de las telecomunicaciones a lo largo y ancho del país.
