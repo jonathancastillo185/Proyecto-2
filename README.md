@@ -28,8 +28,9 @@ El análisis exploratorio de los datos se realizó desde un enfoque objetivo, ce
 
 ![Alt text](/image/image.png)
 
-<h3>Este primer vistazo general nos ofrece una imagen clara del enfoque predominante en esta área: principalmente se centró en las cercanías de la provincia de Buenos Aires para luego expandirse hacia otras áreas adyacentes.
-Otra conclusion por la cual mas adelante indagaremos en outliers, habla sobre el gran incremento ocurrido entre el 2016 al 2020, a manera de spoiler en general suele suceder que los grandes cambios surgen luego de inversiones e innovacion de infraestructuras a nivel provincial, recordemos que las medidas promedio son sensibles a los valores extremos.</h3>
+<h3>Este primer análisis general ofrece una visión clara del enfoque predominante en esta área: principalmente se centró en las cercanías de la provincia de Buenos Aires para luego expandirse hacia otras áreas adyacentes.
+
+Una conclusión adicional que merece más investigación está relacionada con los outliers. Se destaca el notable incremento observado entre 2016 y 2020. En general, es común que cambios significativos ocurran después de inversiones e innovaciones en la infraestructura a nivel provincial. Es importante recordar que las medidas promedio pueden verse influenciadas por valores extremos.</h3>
 
 
 
@@ -43,11 +44,11 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 ---
 
 <br>
-<h3>Seguimos con el desgloze, luego de realizar la exploracion sobre el historial temporal, diviendolo por anios y trimestres, procedemos a extraer informacion sobre el incremento porcentual trimestral, a continuacion les vamos a mostrar una grafica haciendo referencia a la diferencia entre el porcentaje incrementado entre un trimestre y otro.</h3>
+<h3>Continuamos con el desglose de datos. Tras realizar la exploración del historial temporal, dividido por años y trimestres, procedemos a extraer información sobre el incremento porcentual trimestral. A continuación, presentaremos un gráfico que ilustra la diferencia en el porcentaje de crecimiento entre un trimestre y otro.</h3>
 
 ![Alt text](/image/image1.png)
 
-<h3>Tomando como referencia los valores reflejados en el grafico, se llego a la conclusion de que el segundo y tercer trimestre de cada anio tienen un aumento significativo a diferencia del resto.</h3>
+<h3>Tomando como referencia los valores reflejados en el gráfico, se ha llegado a la conclusión de que el segundo y tercer trimestre de cada año presentan un aumento significativo en contraste con los demás.</h3>
 
 <h3>Informacion adicional: 
 
@@ -71,19 +72,19 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 ---
 
 <br>
-<h3>En el siquiente grafico se analizo la informacion a nivel provincial, este enfoque trata de explicar un poco mas a fondo diferencias entre el promedio de acceso a internet por cada 100 hogares, claramente tenemos provincias en las que el promedio es mucho mas alto, puede ser por falta de infraestructura o quizas por falta de poblacion, tengamos en cuenta que no todas las provincias cuentan con una densidad poblacional similar.</h3>
+<h3>El siguiente gráfico se enfoca en el análisis a nivel provincial para examinar las diferencias en el acceso promedio a Internet por cada 100 hogares. Se destaca que algunas provincias muestran un promedio notablemente superior, posiblemente debido a la falta de infraestructura. Por el contrario, las provincias con promedios más bajos podrían atribuirse a una menor densidad poblacional. Es crucial tener en cuenta que la densidad poblacional varía significativamente entre las distintas provincias</h3>
 
 ![Alt text](/image/image4.png)
 
-<h3>Para poder tener un angulo mas exacto vamos a realizar la siguiente grafica en donde vemos el crecimiento porcentual del promedio de acceso a internet por cada 100 habitantes</h3>
+<h3>Para obtener una perspectiva más precisa, generaremos el siguiente gráfico que muestra el crecimiento porcentual del acceso promedio a Internet por cada 100 habitantes.</h3>
 
 ![Alt text](/image/image5.png)
 
-<h3>Como podemos obserbar en el año 2016 Santiago del Estero tenemos un incremento exponencial del promedio de acceso a internet por cada 100 hogares, y lo podemos atribuir a que Se lanzó el programa "Mi Pueblo Conectado" en Santiago del Estero.</h3>
+<h3>Como se puede observar en el año 2016, en Santiago del Estero se registró un incremento exponencial en el promedio de acceso a Internet por cada 100 hogares. Este aumento puede atribuirse al lanzamiento del programa 'Mi Pueblo Conectado' en Santiago del Estero.</h3>
 
 [Visita la página oficial de la noticia Santiago del Estero](https://www.argentina.gob.ar/noticias/se-lanzo-el-programa-mi-pueblo-conectado-en-santiago-del-estero-con-entrega-de-equipamiento)
 
-<H3>Otro valor fuera de lo comun es el incremento porcentual de la provincia de San Luis, pero esto de deve a un programa creado en conjunto con el gobierno nacional, su finalidad fue extender una red de fibra óptica en más de 500 kilómetros que abarca la mayor parte de la provincia, claramente esto provoco que el acceso por cada 100 hogares incremente su valor de forma exponencial luego de este periodo</h3>
+<H3>Otro valor excepcional es el incremento porcentual en la provincia de San Luis, atribuible a un programa conjunto con el gobierno nacional. Este programa tenía como objetivo extender una red inalámbrica que abarcara la mayor parte de la provincia. Evidentemente, esto provocó un aumento exponencial en el acceso a Internet por cada 100 hogares, posterior a la implementación de este programa</h3>
 
 [Visita la página oficial de la noticia San Luis](https://agenciasanluis.com/notas/2018/07/13/el-servicio-de-wifi-gratuito-amplia-los-beneficios-transversalmente-a-todos-los-sectores-de-la-comunidad-de-san-luis/)
 <br>
@@ -91,35 +92,36 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 ---
 
 <br>
-<h2>Procedemos con el enfoque Provincial del promedio de accesos a internet por cada 100 hogares anual</h2>
+<h2>Procedemos con el enfoque provincial del promedio anual de accesos a Internet por cada 100 hogares.</h2>
 
 ![Alt text](/image/image6.png)
 
-<h3>El principal fin de esta visualizacion es comprender el valor de cada provincia, y ademas poder crear una tabla de categorias en donde clasificamos las provincias en 3 sectores en relacion al Volumen de acceso Alto, Medio y Bajo.</h3>
+<h3>El propósito principal de esta visualización es comprender el valor de cada provincia y, además, crear una tabla de categorías donde clasificamos las provincias en tres sectores en relación al volumen de acceso: Alto, Medio y Bajo.</h3>
 
 ![Alt text](/image/image7.png)
 
-<h3>Agrupamos las provincias por sus categorias, y procedimos a clasificar las provincias dejando a la vista su promedio de acceso a internet por cada 100 hogares. En este contexto, optamos por seleccionar las provincias pertenecientes al grupo de volumen medio. Este grupo se destaca por su potencial de inversión y crecimiento a corto y mediano plazo, además de su alta densidad poblacional. Es importante resaltar que, a pesar de estas características favorables, estas áreas aún presentan una gran extensión territorial por cubrir en términos de conexiones a internet.</h3>
+<h3>Al agrupar las provincias por categorías, procedimos a clasificarlas, mostrando claramente su promedio de acceso a Internet por cada 100 hogares. En este contexto, decidimos enfocarnos en las provincias pertenecientes al grupo de volumen medio. Estas áreas destacan por su potencial de inversión y crecimiento a corto y mediano plazo, además de tener una alta densidad poblacional. Es importante destacar que, a pesar de estas características favorables, estas áreas aún tienen una gran extensión territorial por cubrir en términos de conexiones a Internet</h3>
 
-<h2>A continuacion vamos a realizar un grafico por Provincia comparando su crecimiento porcentual anual en acceso a internet por cada 100 hogares, con el promedio de acceso a internet por cada 100 hogares anual\trimestral</h2>
+<h2>A continuación, crearemos un gráfico comparativo por provincia que muestra el crecimiento porcentual anual en el acceso a internet por cada 100 hogares, junto con el promedio anual/trimestral de acceso a internet por cada 100 hogares</h2>
 
 ![Alt text](/image/image12.png)
 
 ![Alt text](/image/image13.png)
 
-Solo se visualizan las muestras mas representativas con el fin de no contaminar el desarrollo con graficos poco referentes.
+Se presentan únicamente las muestras más representativas con el fin de evitar el exceso de gráficos poco relevantes en el desarrollo del análisis.
 
-<h3>Como podemos observar en el estudio de los diagramas, la mayoría de las provincias pertenecientes al grupo de volumen medio en la categoría de promedio de accesos por cada 100 hogares experimentaron un aumento exponencial en los años 2017/2018, indicando una clara tendencia en este aspecto. Sin embargo, este punto será abordado más detalladamente en breve, durante el análisis de las tecnologías y la velocidad. Aunque muchos de estos aumentos pueden atribuirse a inversiones conjuntas con el gobierno a través de proyectos destinados a mejorar la conectividad en todo el país, al final del documento se adjuntarán bibliografías que refutan esta afirmación.</h3>
+<h3>En el análisis de los diagramas, se observa que la mayoría de las provincias clasificadas en el grupo de volumen medio, en términos del promedio de accesos por cada 100 hogares, experimentaron un marcado aumento en los años 2017 y 2018, lo que señala una clara tendencia en este aspecto. Sin embargo, se profundizará más sobre este punto en el análisis de las tecnologías y la velocidad, más adelante en el documento.
+Estos incrementos pueden atribuirse a inversiones conjuntas con el gobierno a través de proyectos destinados a mejorar la conectividad en todo el país. No obstante, al final del documento se proporcionarán referencias bibliográficas que cuestionan esta afirmación.</h3>
 <br>
 
 ---
 
 <br>
-<h1>Tecnologia y Velocidad por Provincia Anual</h1>
+<h1>Tecnología y Velocidad por Provincia</h1>
 
-<h3>Como lo dice el titulo ahora abordaremos la informacion en base a la tecnologia implementada en cada provincia, asi como tambien los rangos de valores de descarga con los que cuentan estan provincias del volumen medio de acceso a internet por cada 100 habitantes. Tener este contexto nos va a abrir nuevas ventanas de exploracion y comparacion, todo con el fin de interpretar que esta pasando en esta epoca, y tambien hacia a donde dirigir el esfuerzo para lograr objetivos a futuro.</h3>
+<h3>Siguiendo el título, abordaremos la información relacionada con la tecnología implementada en cada provincia, así como los rangos de valores de descarga presentes en las provincias con un volumen medio de acceso a Internet por cada 100 habitantes. Contar con este contexto nos permitirá abrir nuevas ventanas de exploración y comparación. El objetivo es interpretar lo que está sucediendo en esta época y, además, determinar hacia dónde dirigir nuestros esfuerzos para alcanzar objetivos a futuro</h3>
 
-<h3>Vamos a tomar los graficos de las muestras mas representativas de cada tecnologia aplicada a una provincia en especifico y realizar la comparacion con su crecimiento en promedio de accesos a internet por cada 100 hogares anial\trimestral.</h3>
+<h3>Vamos a seleccionar los gráficos de las muestras más representativas de cada tecnología aplicada en una provincia específica y comparar su crecimiento en el promedio de accesos a Internet por cada 100 hogares anual y trimestral.</h3>
 
 ![Alt text](/image/image9.png)
 
@@ -127,26 +129,26 @@ Solo se visualizan las muestras mas representativas con el fin de no contaminar 
 
 ![Alt text](/image/image11.png)
 
-Solo se visualizan las muestras mas representativas con el fin de no contaminar el desarrollo con graficos poco referentes.
+Se presentan únicamente las muestras más representativas con el fin de evitar el exceso de gráficos poco relevantes en el desarrollo del análisis.
 
-<h3>Estos graficos analizando el incremento del porcentaje de accesos por tecnologia, nos dan un panorama de hacia a donde van encaminadas las inversiones a futuro en relacion a la conectividad en las diferentes provincias, cada una tiene su nucleo fuerte en tecnologia, en lo unico que podemos afirmar que coinciden es en retrotraer el tipo de coneccion ADSL, ya que es el mas antiguo y esta quedando obsoleto por su falta de estabilidad, asi como tambien por su poca velocidad de transferencia de datos.</h3>
-<h3>Dato de color no menor: la tecnologia ADSL es la mas economica.</h3>
+<h3>Estos gráficos, al analizar el incremento del porcentaje de accesos por tecnología, nos brindan una visión sobre las inversiones futuras en la conectividad de las diferentes provincias. Cada provincia tiene su propio enfoque tecnológico. La única coincidencia notable es el retroceso en la tecnología de conexión ADSL, la cual se está volviendo obsoleta debido a su falta de estabilidad y su baja velocidad de transferencia de datos.</h3>
+<h3>Dato relevante: la tecnología ADSL es antigua y económica.</h3>
 
 <h2>A nivel tecnologia, hemos llegado a la conclusión de priorizar 2 KPIs:</h2>
 
-<h2>1) Aumentar el incremento porcentual de infraestructura Wireless, con posibles acciones tales como:</h2>
+<h2>1) Mejorar el incremento porcentual de la infraestructura inalámbrica, con posibles acciones tales como:</h2>
 
-<h3>a. Realizar inversiones en diferentes provincias en las cuales por el momento no domina ninguna otra tecnologia a grandes rasgos.</h3>
+<h3>a. Invertir en diferentes provincias donde, por el momento, ninguna otra tecnología prevalece de manera general.</h3>
 
-<h2>2) Aumentar la disminucion porcentual del uso de la tecnologia ADSL, con posibles acciones tales como:</h3>
+<h2>2) Reducir la disminución del uso porcentual de la tecnología ADSL, con posibles acciones como:</h3>
 
-<h3>a. Reemplazar tirajes de lineas con la tecnologia Fibra optica, la supera con creces en velocidad, costo y estabilidad.</h3>
+<h3>a. Sustituir las líneas de ADSL por fibra óptica, ya que La fibra óptica la supera con creces en velocidad, costos y estabilidad.</h3>
 <br>
 
 ---
 
 <br>
-<h2>A continuacion vamos a realizar la visualizacion en rango temporal, de las velocidades que forman parte de la infraestructuras de las Provincias pertenecientes al volumen medio de acceso a internet por cada 100 hogares.</h2>
+<h2>A continuación, realizaremos la visualización temporal de las velocidades que integran las infraestructuras de las provincias que se encuentran en el grupo de volumen medio de acceso a internet por cada 100 hogares.</h2>
 
 ![Alt text](/image/image14.png)
 
@@ -155,11 +157,11 @@ Solo se visualizan las muestras mas representativas con el fin de no contaminar 
 ![Alt text](/image/image16.png)
 
 
-<h3>A modo de comparativa se visualizaron los graficos referentes a las mismas provincias mencionadas anteriormente en el grafico de tecnologias, para comprobar la correlacion que vinculan estos parametros, podemos llegar a la conclusion de que a medida que las tecnologias son mas eficientes a nivel transferencia y estabilidad, afecta directamente en como decanta el publico ubicado en cada Provincia.</h3>
+<h3>En una comparativa visual, se han observado los gráficos referentes a las mismas provincias mencionadas anteriormente en el gráfico de tecnologías. Esta comparación tiene como objetivo comprobar la correlación entre estos parámetros. Se puede concluir que a medida que las tecnologías son más eficientes en términos de transferencia y estabilidad, esto incide directamente en la preferencia del público en cada provincia.</h3>
 
 ![Alt text](/image/image17.png)
 
-<h3>Un ejemplo sumamente significativo se observa en el caso de la Provincia de San Luis. Se evidencia una correlación directa entre el aumento en la velocidad de internet y la implementación de la infraestructura inalámbrica. Este evento marcó claramente un punto de inflexión temporal, generando un notable incremento en las métricas al proporcionar acceso a esta nueva tecnología a la población. </h3>
+<h3>Un ejemplo sumamente significativo se aprecia en la Provincia de San Luis. Se revela una correlación directa entre el aumento en la velocidad de Internet y la implementación de la infraestructura inalámbrica. Este acontecimiento marcó claramente un punto de inflexión temporal, resultando en un notable aumento en las métricas al brindar acceso a esta nueva tecnología a la población. </h3>
 <br>
 
 ---
