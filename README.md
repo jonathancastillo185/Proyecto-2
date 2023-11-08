@@ -96,3 +96,18 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 ![Alt text](/image/image8.png)
 
 <h3>Como podemos observar en el estudio de los diagramas, la mayoría de las provincias pertenecientes al grupo de volumen medio en la categoría de promedio de accesos por cada 100 hogares experimentaron un aumento exponencial en los años 2017/2018, indicando una clara tendencia en este aspecto. Sin embargo, este punto será abordado más detalladamente en breve, durante el análisis de las tecnologías y la velocidad. Aunque muchos de estos aumentos pueden atribuirse a inversiones conjuntas con el gobierno a través de proyectos destinados a mejorar la conectividad en todo el país, al final del documento se adjuntarán bibliografías que refutan esta afirmación.</h3>
+
+---
+
+<h1>Tecnologia y Velocidad por Provincia Anual</h1>
+
+<h3>Como lo dice el titulo ahora abordaremos la informacion en base a la tecnologia implementada en cada provincia, asi como tambien los rangos de valores de descarga con los que cuentan estan provincias del volumen medio de acceso a internet por cada 100 habitantes. Tener este contexto nos va a abrir nuevas ventanas de exploracion y comparacion, todo con el fin de interpretar que esta pasando en esta epoca, y tambien hacia a donde dirigir el esfuerzo para lograr objetivos a futuro.</h3>
+
+<h3>Vamos a tomar los graficos de las muestras mas representativas de cada tecnologia aplicada a una provincia en especifico y realizar la comparacion con su crecimiento en promedio de accesos a internet por cada 100 hogares anial\trimestral.</h3>
+
+![Alt text](/image/image9.png)
+
+![Alt text](/image/image10.png)
+
+![Alt text](/image/image11.png)
+
