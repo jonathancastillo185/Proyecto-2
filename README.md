@@ -38,9 +38,11 @@ Otra conclusion por la cual mas adelante indagaremos en outliers, habla sobre el
 <h3>La métrica principal dentro de este intervalo temporal es el crecimiento trimestral. Es crucial que este crecimiento siga una tendencia exponencial para lograr una cobertura más amplia en todo el territorio. Debemos considerar que nuestro país cuenta con una gran población, pero actualmente solo alcanzamos, en promedio, el 67% de los hogares con conexión a las redes. En base a lo anterior, proponemos un incremento mínimo trimestral del 2% y proponemos designarlo como un KPI.
 Este crecimiento gradual en la cantidad de conexiones por hogar presupone una expansión significativa hacia zonas aún no exploradas por la infraestructura de telecomunicaciones.
 </h3>
+<br>
 
 ---
 
+<br>
 <h3>Seguimos con el desgloze, luego de realizar la exploracion sobre el historial temporal, diviendolo por anios y trimestres, procedemos a extraer informacion sobre el incremento porcentual trimestral, a continuacion les vamos a mostrar una grafica haciendo referencia a la diferencia entre el porcentaje incrementado entre un trimestre y otro.</h3>
 
 ![Alt text](/image/image1.png)
@@ -64,9 +66,11 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 <h2>2) Aumentar el porcentaje de adquisición de internet durante situaciones de cambios gubernamentales, con posibles acciones como:</h2>
 
 <h3>a. Centrar la publicidad en la continuidad de las suscripciones a largo plazo (para reducir costos a largo plazo).</h3>
+<br>
 
 ---
 
+<br>
 <h3>En el siquiente grafico se analizo la informacion a nivel provincial, este enfoque trata de explicar un poco mas a fondo diferencias entre el promedio de acceso a internet por cada 100 hogares, claramente tenemos provincias en las que el promedio es mucho mas alto, puede ser por falta de infraestructura o quizas por falta de poblacion, tengamos en cuenta que no todas las provincias cuentan con una densidad poblacional similar.</h3>
 
 ![Alt text](/image/image4.png)
@@ -82,9 +86,11 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 <H3>Otro valor fuera de lo comun es el incremento porcentual de la provincia de San Luis, pero esto de deve a un programa creado en conjunto con el gobierno nacional, su finalidad fue extender una red de fibra óptica en más de 500 kilómetros que abarca la mayor parte de la provincia, claramente esto provoco que el acceso por cada 100 hogares incremente su valor de forma exponencial luego de este periodo</h3>
 
 [Visita la página oficial de la noticia San Luis](https://agenciasanluis.com/notas/2018/07/13/el-servicio-de-wifi-gratuito-amplia-los-beneficios-transversalmente-a-todos-los-sectores-de-la-comunidad-de-san-luis/)
+<br>
 
 ---
 
+<br>
 <h2>Procedemos con el enfoque Provincial del promedio de accesos a internet por cada 100 hogares anual</h2>
 
 ![Alt text](/image/image6.png)
@@ -104,9 +110,11 @@ Este crecimiento gradual en la cantidad de conexiones por hogar presupone una ex
 Solo se visualizan las muestras mas representativas con el fin de no contaminar el desarrollo con graficos poco referentes.
 
 <h3>Como podemos observar en el estudio de los diagramas, la mayoría de las provincias pertenecientes al grupo de volumen medio en la categoría de promedio de accesos por cada 100 hogares experimentaron un aumento exponencial en los años 2017/2018, indicando una clara tendencia en este aspecto. Sin embargo, este punto será abordado más detalladamente en breve, durante el análisis de las tecnologías y la velocidad. Aunque muchos de estos aumentos pueden atribuirse a inversiones conjuntas con el gobierno a través de proyectos destinados a mejorar la conectividad en todo el país, al final del documento se adjuntarán bibliografías que refutan esta afirmación.</h3>
+<br>
 
 ---
 
+<br>
 <h1>Tecnologia y Velocidad por Provincia Anual</h1>
 
 <h3>Como lo dice el titulo ahora abordaremos la informacion en base a la tecnologia implementada en cada provincia, asi como tambien los rangos de valores de descarga con los que cuentan estan provincias del volumen medio de acceso a internet por cada 100 habitantes. Tener este contexto nos va a abrir nuevas ventanas de exploracion y comparacion, todo con el fin de interpretar que esta pasando en esta epoca, y tambien hacia a donde dirigir el esfuerzo para lograr objetivos a futuro.</h3>
@@ -133,9 +141,11 @@ Solo se visualizan las muestras mas representativas con el fin de no contaminar 
 <h2>2) Aumentar la disminucion porcentual del uso de la tecnologia ADSL, con posibles acciones tales como:</h3>
 
 <h3>a. Reemplazar tirajes de lineas con la tecnologia Fibra optica, la supera con creces en velocidad, costo y estabilidad.</h3>
+<br>
 
 ---
 
+<br>
 <h2>A continuacion vamos a realizar la visualizacion en rango temporal, de las velocidades que forman parte de la infraestructuras de las Provincias pertenecientes al volumen medio de acceso a internet por cada 100 hogares.</h2>
 
 ![Alt text](/image/image14.png)
@@ -149,11 +159,27 @@ Solo se visualizan las muestras mas representativas con el fin de no contaminar 
 
 ![Alt text](/image/image17.png)
 
-<h3>Un ejemplo muy significativo es el caso de la Provincia de San Luis, presenta una coorrelacion en el incremento del rango de velocidad de internet  </h3>
+<h3>Un ejemplo sumamente significativo se observa en el caso de la Provincia de San Luis. Se evidencia una correlación directa entre el aumento en la velocidad de internet y la implementación de la infraestructura inalámbrica. Este evento marcó claramente un punto de inflexión temporal, generando un notable incremento en las métricas al proporcionar acceso a esta nueva tecnología a la población. </h3>
+<br>
+
+---
+
+<br>
+
+### Tras completar este exhaustivo análisis exploratorio de los datos relacionados con [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/), la empresa de telecomunicaciones, se extraen conclusiones valiosas que servirán como base fundamental para futuros pasos. Estas conclusiones y las hipótesis desarrolladas se utilizarán como cimientos sólidos para la creación de un dashboard informativo. Este dashboard, en conjunto con una narrativa visual a través de storytelling, no solo respaldará múltiples perspectivas, sino que también ofrecerá recomendaciones fundamentadas.
+
+<h3>La visualización de datos proporcionará una ventana a la comprensión más profunda de los patrones, tendencias y posibles oportunidades dentro del entorno de las telecomunicaciones. La presentación de los datos a través de un storytelling persuasivo permitirá explorar y comunicar hallazgos de una manera impactante y efectiva.</h3>
+
+<h3>El objetivo principal radica en aprovechar este análisis para tomar decisiones informadas y estratégicas. Las recomendaciones resultantes de este proceso no solo servirán para optimizar la eficiencia operativa de ENACOM, sino también para guiar el desarrollo de estrategias de crecimiento sostenible.</h3>
+
+<h3>Este análisis no es solo un fin en sí mismo, sino un punto de partida hacia un entendimiento más profundo y una toma de decisiones más informada en el ámbito de las telecomunicaciones. Este cierre marca el comienzo de una fase crucial en la transformación de datos en acciones concretas y significativas.</h3>
 
 
+<br>
+<br>
 
-### Para realizar este estudio de mercado se utiliaron los siguientes Datasets extraidos de la web oficial de [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/):
+
+## Para realizar este estudio de mercado se utiliaron los siguientes Datasets extraidos de la web oficial de [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/):
 
 - [Historico_velocidad_internet.csv](/Data/historico_velocidad_internet.csv): Este dataset contiene los valores promedio de bajada por provincia, agrupandolos en trimestres y años.
 
